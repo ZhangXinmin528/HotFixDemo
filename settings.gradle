@@ -1,0 +1,3 @@
+rootProject.name='DexClassloderHotFix'
+include ':app'
+include ':lib.patch'
